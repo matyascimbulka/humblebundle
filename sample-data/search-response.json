@@ -1,0 +1,1023 @@
+{
+    "num_results": 14908,
+    "page_index": 0,
+    "request": 1,
+    "num_pages": 746,
+    "results": [
+        {
+            "standard_carousel_image": "https://hb.imgix.net/1295d9b606653ab8fc78d3a26e170c448bbcb429.png?auto=compress,format&fit=crop&h=206&w=360&s=1b0e6985fbf518e4e280f5dd83d5609c",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "kingdomcome_deliveranceii_goldedition_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/1295d9b606653ab8fc78d3a26e170c448bbcb429.png?auto=compress,format&fit=crop&h=84&w=135&s=87c6a40269c018e006894cc8ee1e8061",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "kingdom-come-deliverance-ii-gold-edition",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/1295d9b606653ab8fc78d3a26e170c448bbcb429.png?auto=compress,format&fit=crop&h=154&w=270&s=6ff31800f0b2b6f7d8c4a67194d77559",
+            "large_capsule": "https://hb.imgix.net/1295d9b606653ab8fc78d3a26e170c448bbcb429.png?auto=compress,format&fit=crop&h=353&w=616&s=5c03081f93dee1f98c6af5a2eda26d26",
+            "human_name": "Kingdom Come: Deliverance II Gold Edition",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/1295d9b606653ab8fc78d3a26e170c448bbcb429.png?auto=compress,format&fit=crop&h=64&w=103&s=2a1c605440f20a1a8b51615ca2b1c6fe",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 79.99
+            },
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 79.99
+            },
+            "cta_badge": "preorder",
+            "rating_for_current_region": "esrb"
+        },
+        {
+            "require_linked_third_party_account_when": "never",
+            "standard_carousel_image": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=467335d2c8ffeb8aaac2663c560819b6",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "hollowknight_storefront",
+            "giftable_when": "always",
+            "xray_traits_thumbnail": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=efe534fb9c225b1f75b435bec5b9bd8d",
+            "content_types": [
+                "mobile",
+                "game"
+            ],
+            "human_url": "hollow-knight",
+            "platforms": [
+                "linux",
+                "mac",
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows",
+                        "mac",
+                        "linux"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=39928e015f9ea177bf6cdbc54a2e0461",
+            "large_capsule": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=24ed82654ecaa67252feccb8e64f3ee5",
+            "human_name": "Hollow Knight",
+            "icon": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=0e5e1517a691c10e485da12065a33275",
+            "type": "product",
+            "mini_carousel_image": "https://hb.imgix.net/ade6e4b3f1acabc45a4fc6001c687b7f2860a6f3.jpg?auto=compress,format&fit=crop&h=401&w=340&s=f73e4886c4ca6d0cd6493e137279a8f7",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {
+                "hollowknight_steam": [
+                    "Hollow Knight",
+                    "Steam"
+                ]
+            },
+            "full_price": {
+                "currency": "USD",
+                "amount": 14.99
+            },
+            "sale_end": 1739210400,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 7.49
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/c2dc9a977f2f39ac45bfd4484d0b67190c6610c1.jpg?auto=compress,format&fit=crop&h=206&w=360&s=1e18022e6d16d26c385778c5d9746820",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "monsterhunterwilds_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/c2dc9a977f2f39ac45bfd4484d0b67190c6610c1.jpg?auto=compress,format&fit=crop&h=84&w=135&s=477a93126f70996a4bce4345ca50c57c",
+            "content_types": [
+                "mobile",
+                "game"
+            ],
+            "human_url": "monster-hunter-wilds",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/c2dc9a977f2f39ac45bfd4484d0b67190c6610c1.jpg?auto=compress,format&fit=crop&h=154&w=270&s=791017e8ae7f78fb9f8ed482ccab3107",
+            "large_capsule": "https://hb.imgix.net/c2dc9a977f2f39ac45bfd4484d0b67190c6610c1.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f0d6a3cbd44824db815d1d91d4502433",
+            "human_name": "Monster Hunter Wilds",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/c2dc9a977f2f39ac45bfd4484d0b67190c6610c1.jpg?auto=compress,format&fit=crop&h=64&w=103&s=1f08b616e2036597ce20fd6c816a29a7",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 69.99
+            },
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 69.99
+            },
+            "cta_badge": "preorder",
+            "rating_for_current_region": "esrb"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/e70766267e62c24388e854bf57aa1399d4f5f20a.jpg?auto=compress,format&fit=crop&h=206&w=360&s=0297eb005e25c9eeefbc02a29c65d901",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "lifeisstrange_doubleexposure_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/e70766267e62c24388e854bf57aa1399d4f5f20a.jpg?auto=compress,format&fit=crop&h=84&w=135&s=c486550ed11fb1b070fd7df56223105b",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "life-is-strange-double-exposure",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/e70766267e62c24388e854bf57aa1399d4f5f20a.jpg?auto=compress,format&fit=crop&h=154&w=270&s=b35a064932e08ba8b61d4210cd00c68e",
+            "large_capsule": "https://hb.imgix.net/e70766267e62c24388e854bf57aa1399d4f5f20a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=490807d09874c0d4780ec8fced9eb848",
+            "human_name": "Life is Strange: Double Exposure",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/e70766267e62c24388e854bf57aa1399d4f5f20a.jpg?auto=compress,format&fit=crop&h=64&w=103&s=36ff53cdf8c055039460eaad8c6f9aa5",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.05,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 49.99
+            },
+            "sale_end": 1738173600,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 34.99
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "require_linked_third_party_account_when": "always",
+            "standard_carousel_image": "https://hb.imgix.net/2f18c76bea6590683fa9565ebbb304bdc62cc099.jpg?auto=compress,format&fit=crop&h=206&w=360&s=8346efefe79e3de7944b69aa5ab314b8",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "kingdomhearts_integrummasterpiece_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/2f18c76bea6590683fa9565ebbb304bdc62cc099.jpg?auto=compress,format&fit=crop&h=84&w=135&s=69d3271322610db92f55c02b84004973",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "kingdom-hearts-integrum-masterpiece",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/2f18c76bea6590683fa9565ebbb304bdc62cc099.jpg?auto=compress,format&fit=crop&h=154&w=270&s=f2e5097a69711f42f03729c231acfc2d",
+            "large_capsule": "https://hb.imgix.net/2f18c76bea6590683fa9565ebbb304bdc62cc099.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d9dbd6ba0179f5bc75d28c4a81be2198",
+            "human_name": "KINGDOM HEARTS INTEGRUM MASTERPIECE",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/2f18c76bea6590683fa9565ebbb304bdc62cc099.jpg?auto=compress,format&fit=crop&h=64&w=103&s=e3773e6a8edb668c3198c7a5487744da",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.05,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 99.99
+            },
+            "sale_end": 1738173600,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 64.99
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=206&w=360&s=036362934b3193e35c705a60ca172efb",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "bonelab_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=84&w=135&s=b87520a8275dccd88ef4cb6ca9c1ad01",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "bonelab",
+            "platforms": [
+                "oculus-rift",
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows",
+                        "oculus-rift"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=154&w=270&s=8b51361966a55f6cd36c40c73337b865",
+            "large_capsule": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=41c08fd51c679e8a5d6e3a3227020f12",
+            "human_name": "BONELAB",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=64&w=103&s=949077ab354cf2acb23ce641603c9f1f",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 39.99
+            },
+            "sale_end": 1739210400,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 31.99
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/2e9ff7ed76746d76dfc90c6e4c857cf80bf2ca92.png?auto=compress,format&fit=crop&h=206&w=360&s=eedf9074dd1313765d77e55c568a9e47",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "thejotacollection_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/2e9ff7ed76746d76dfc90c6e4c857cf80bf2ca92.png?auto=compress,format&fit=crop&h=84&w=135&s=cc64b549db623b201ae8c4e7e1b41530",
+            "content_types": [
+                "mobile",
+                "game"
+            ],
+            "human_url": "the-jota-collection",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/2e9ff7ed76746d76dfc90c6e4c857cf80bf2ca92.png?auto=compress,format&fit=crop&h=154&w=270&s=2035b542877d7572432ffc3e32a3ab92",
+            "large_capsule": "https://hb.imgix.net/2e9ff7ed76746d76dfc90c6e4c857cf80bf2ca92.png?auto=compress,format&fit=crop&h=353&w=616&s=f2d9698e42673bf92043167aa0665627",
+            "human_name": "The JOTA Collection",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/2e9ff7ed76746d76dfc90c6e4c857cf80bf2ca92.png?auto=compress,format&fit=crop&h=64&w=103&s=80f789bd31009adcc733cfee08cada53",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 31.49
+            },
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 31.49
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb"
+        },
+        {
+            "require_linked_third_party_account_when": "never",
+            "standard_carousel_image": "https://hb.imgix.net/4c6769c0d7eeb4bd7ef1405aa2a127ff75512cac.jpg?auto=compress,format&fit=crop&h=206&w=360&s=9721704b687a833e91d4b4d9642d57bd",
+            "delivery_methods": [
+                "other-key"
+            ],
+            "machine_name": "vintagestory_storefront",
+            "giftable_when": "always",
+            "xray_traits_thumbnail": "https://hb.imgix.net/4c6769c0d7eeb4bd7ef1405aa2a127ff75512cac.jpg?auto=compress,format&fit=crop&h=84&w=135&s=f6053fe25864cdbaaf4dcc42ec35e1af",
+            "content_types": [
+                "mobile",
+                "game"
+            ],
+            "human_url": "vintage-story",
+            "platforms": [
+                "linux",
+                "mac",
+                "windows"
+            ],
+            "icon_dict": {
+                "other-key": {
+                    "available": [
+                        "windows",
+                        "mac",
+                        "linux"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/4c6769c0d7eeb4bd7ef1405aa2a127ff75512cac.jpg?auto=compress,format&fit=crop&h=154&w=270&s=6cd0026645107f51a76e2c922efc8756",
+            "large_capsule": "https://hb.imgix.net/4c6769c0d7eeb4bd7ef1405aa2a127ff75512cac.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f8119271f02c17e94087303bfbf82e4b",
+            "human_name": "Vintage Story",
+            "type": "product",
+            "icon": "https://hb.imgix.net/4c6769c0d7eeb4bd7ef1405aa2a127ff75512cac.jpg?auto=compress,format&fit=crop&h=64&w=103&s=a6f7f799eb3191854122aa3c3218d51e",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 26.5
+            },
+            "nonrefundable": true,
+            "current_price": {
+                "currency": "USD",
+                "amount": 26.5
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/c73f6931e0c9251fdd675e5dde316f6772c4e317.png?auto=compress,format&fit=crop&h=206&w=360&s=feb3e6c925197712fd9a69328e09d41a",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "finalfantasyviiremake_rebirthtwinpack_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/c73f6931e0c9251fdd675e5dde316f6772c4e317.png?auto=compress,format&fit=crop&h=84&w=135&s=9e4f2cad1ca88f625f784d4c0a79c9dd",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "final-fantasy-vii-remake-rebirth-twin-pack",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/c73f6931e0c9251fdd675e5dde316f6772c4e317.png?auto=compress,format&fit=crop&h=154&w=270&s=6a0a09b1984428c496da3161421f4636",
+            "large_capsule": "https://hb.imgix.net/c73f6931e0c9251fdd675e5dde316f6772c4e317.png?auto=compress,format&fit=crop&h=353&w=616&s=26b2c810358a4bb19d779db06448d93e",
+            "human_name": "FINAL FANTASY VII REMAKE & REBIRTH Twin Pack",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/c73f6931e0c9251fdd675e5dde316f6772c4e317.png?auto=compress,format&fit=crop&h=64&w=103&s=6c269750fcb670dd67a80a457aeb41d9",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.05,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 99.99
+            },
+            "sale_end": 1738778400,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 69.99
+            },
+            "cta_badge": "outnow",
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/7013f6edf71b2bce1970762cd2daccfb9ec47c95.jpg?auto=compress,format&fit=crop&h=206&w=360&s=cc415aa07afe6fa80a4ace752a70b8bd",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "monsterhunterwilds_premiumdeluxeedition_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/7013f6edf71b2bce1970762cd2daccfb9ec47c95.jpg?auto=compress,format&fit=crop&h=84&w=135&s=575b3a0e2f11446925a2d65d8f419216",
+            "content_types": [
+                "mobile",
+                "game"
+            ],
+            "human_url": "monster-hunter-wilds-premium-deluxe-edition",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/7013f6edf71b2bce1970762cd2daccfb9ec47c95.jpg?auto=compress,format&fit=crop&h=154&w=270&s=c4a05696ede1ef32f1643ff0ac1e8568",
+            "large_capsule": "https://hb.imgix.net/7013f6edf71b2bce1970762cd2daccfb9ec47c95.jpg?auto=compress,format&fit=crop&h=353&w=616&s=297caa7b6b256a1cfcf5d633d56d4b19",
+            "human_name": "Monster Hunter Wilds Premium Deluxe Edition",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/7013f6edf71b2bce1970762cd2daccfb9ec47c95.jpg?auto=compress,format&fit=crop&h=64&w=103&s=d7efec6be8ec2bebbbe99a6b05b2cf6b",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 109.99
+            },
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 109.99
+            },
+            "cta_badge": "preorder",
+            "rating_for_current_region": "esrb"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/2ee57aedc31d88ae211b22529047fad528fac15b.jpg?auto=compress,format&fit=crop&h=206&w=360&s=e0dfdec1555171f9b16f958b1a301701",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "outerwilds_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/2ee57aedc31d88ae211b22529047fad528fac15b.jpg?auto=compress,format&fit=crop&h=84&w=135&s=9b66e5219e21700d56e4f5c623d43c65",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "outer-wilds",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/2ee57aedc31d88ae211b22529047fad528fac15b.jpg?auto=compress,format&fit=crop&h=154&w=270&s=35ae98ba21aefea29d27261d77143b1d",
+            "large_capsule": "https://hb.imgix.net/2ee57aedc31d88ae211b22529047fad528fac15b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=dcb5b659cb1728c376803f9efb202442",
+            "human_name": "Outer Wilds",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/2ee57aedc31d88ae211b22529047fad528fac15b.jpg?auto=compress,format&fit=crop&h=64&w=103&s=fa8b599737284e739b19cde3dc8f1758",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 24.99
+            },
+            "sale_end": 1739210400,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 14.99
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "require_linked_third_party_account_when": "always",
+            "standard_carousel_image": "https://hb.imgix.net/85655dca0526df525d0f3f3b5e0a336f224e0571.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=961fc724f59a7c0f7ebbf65d19eaccb0",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "finalfantasyxvwindowsedition_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/85655dca0526df525d0f3f3b5e0a336f224e0571.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=1c39f46ded22da123f874a18b470c861",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "final-fantasy-xv-windows-edition",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/85655dca0526df525d0f3f3b5e0a336f224e0571.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=936c5451191d4ec2c13b63919a2d4f0b",
+            "large_capsule": "https://hb.imgix.net/85655dca0526df525d0f3f3b5e0a336f224e0571.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=2c86b56b4dfe2dfb6d37a8c12481dea3",
+            "human_name": "FINAL FANTASY® XV WINDOWS EDITION",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/85655dca0526df525d0f3f3b5e0a336f224e0571.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=c67de2277aadc5ede864621374d94c2c",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.05,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 34.99
+            },
+            "sale_end": 1738173600,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 13.99
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/906ab00ec5e63330d2d94123dc00f562227089cf.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=bc867a95fa0798a39ea17f7819c510b2",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "foxhole_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/906ab00ec5e63330d2d94123dc00f562227089cf.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=9d16c14d0f7a6533d0cabd92480dc671",
+            "content_types": [
+                "mobile",
+                "game"
+            ],
+            "human_url": "foxhole",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/906ab00ec5e63330d2d94123dc00f562227089cf.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=595d4c9964e406033c1e107cf16f8873",
+            "large_capsule": "https://hb.imgix.net/906ab00ec5e63330d2d94123dc00f562227089cf.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=00e0d02e033030c5869623d6e8e1f7e8",
+            "human_name": "Foxhole",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/906ab00ec5e63330d2d94123dc00f562227089cf.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=ea02a759e7340d241c5321af64ffb81b",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 29.99
+            },
+            "sale_end": 1738310340,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 22.49
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/788483148dd321c10a3cbd14648220bb73c40c24.jpg?auto=compress,format&fit=crop&h=206&w=360&s=38c1ca02979c5d7734fedfe1406c810e",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "againstthestorm-keepersofthestone_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/788483148dd321c10a3cbd14648220bb73c40c24.jpg?auto=compress,format&fit=crop&h=84&w=135&s=ee1dcce1cc77003f886efefaae00db28",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "against-the-storm-keepers-of-the-stone",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/788483148dd321c10a3cbd14648220bb73c40c24.jpg?auto=compress,format&fit=crop&h=154&w=270&s=17122ac69794f50e35e4eb135898db2d",
+            "large_capsule": "https://hb.imgix.net/788483148dd321c10a3cbd14648220bb73c40c24.jpg?auto=compress,format&fit=crop&h=353&w=616&s=12550612f31f040f1028d0ce879fd399",
+            "human_name": "Against the Storm - Keepers of the Stone",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/788483148dd321c10a3cbd14648220bb73c40c24.jpg?auto=compress,format&fit=crop&h=64&w=103&s=f62d71bcaa95f69103dde6b169d09f62",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {
+                "againstthestorm-keepersofthestone_row_steam": [
+                    "Against the Storm - Keepers of the Stone",
+                    "Steam"
+                ]
+            },
+            "full_price": {
+                "currency": "USD",
+                "amount": 14.99
+            },
+            "sale_end": 1739210400,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 9.74
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "require_linked_third_party_account_when": "never",
+            "standard_carousel_image": "https://hb.imgix.net/5dc28b08c3b6552f6929d90e64e20fdfab513fea.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=7a4c2dd41459122024831349eb037634",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "rimworld_storefront",
+            "giftable_when": "always",
+            "xray_traits_thumbnail": "https://hb.imgix.net/5dc28b08c3b6552f6929d90e64e20fdfab513fea.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=26892991944d61dc5c088054896d6742",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "rimworld",
+            "platforms": [
+                "linux",
+                "mac",
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows",
+                        "mac",
+                        "linux"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/5dc28b08c3b6552f6929d90e64e20fdfab513fea.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=87e3fb1c3f74ec5d404038c536587dfc",
+            "large_capsule": "https://hb.imgix.net/5dc28b08c3b6552f6929d90e64e20fdfab513fea.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=5eb1e7857c9566e7a07d624b37738787",
+            "human_name": "RimWorld",
+            "icon": "https://hb.imgix.net/5dc28b08c3b6552f6929d90e64e20fdfab513fea.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=51f0b60177eb87ff41e0c0889be1acc7",
+            "type": "product",
+            "mini_carousel_image": "https://hb.imgix.net/bfe8fbf928d19a09d880960ea0ce934b37fd9d60.jpg?auto=compress,format&fit=crop&h=401&w=340&s=871e29bfa5fb75905b7147e5b10c6ab5",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 34.99
+            },
+            "sale_end": 1739210400,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 27.99
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/66fae16bb0947737b0dd98dcb7b5c69bc7e971a1.jpg?auto=compress,format&fit=crop&h=206&w=360&s=75f7edcb5453affb55ac74ce3490da43",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "enshrouded_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/66fae16bb0947737b0dd98dcb7b5c69bc7e971a1.jpg?auto=compress,format&fit=crop&h=84&w=135&s=8e6848d87846d1596c2b403b72bc0b2f",
+            "content_types": [
+                "mobile",
+                "game"
+            ],
+            "human_url": "enshrouded",
+            "platforms": [
+                "linux",
+                "mac",
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows",
+                        "mac",
+                        "linux"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/66fae16bb0947737b0dd98dcb7b5c69bc7e971a1.jpg?auto=compress,format&fit=crop&h=154&w=270&s=7dc21aa9955bb97fed4a74d4e8986b21",
+            "large_capsule": "https://hb.imgix.net/66fae16bb0947737b0dd98dcb7b5c69bc7e971a1.jpg?auto=compress,format&fit=crop&h=353&w=616&s=b68f8400a7aa968cd98dde26f803bc89",
+            "human_name": "Enshrouded",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/66fae16bb0947737b0dd98dcb7b5c69bc7e971a1.jpg?auto=compress,format&fit=crop&h=64&w=103&s=b05420de24214de058f728ceb4577737",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.1,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 29.99
+            },
+            "sale_end": 1739286000,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 23.99
+            },
+            "cta_badge": "earlyaccess",
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/e397ba87f47041c0196d9e1ae59cc7c9e99110a1.jpg?auto=compress,format&fit=crop&h=206&w=360&s=cbc2a9981612659861c2c0942926c5cf",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "justcause4_complete_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/e397ba87f47041c0196d9e1ae59cc7c9e99110a1.jpg?auto=compress,format&fit=crop&h=84&w=135&s=3925d4aab24187f76b0fe8af349153ab",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "just-cause-4-complete-edition",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/e397ba87f47041c0196d9e1ae59cc7c9e99110a1.jpg?auto=compress,format&fit=crop&h=154&w=270&s=e93419d90fe570e91ae6ea92fbd4dc0f",
+            "large_capsule": "https://hb.imgix.net/e397ba87f47041c0196d9e1ae59cc7c9e99110a1.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ae56830b9fcc8c39f64a6af615d47ba1",
+            "human_name": "Just Cause 4: Complete Edition",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/e397ba87f47041c0196d9e1ae59cc7c9e99110a1.jpg?auto=compress,format&fit=crop&h=64&w=103&s=2d1359f925a511c40805709754c5ffe9",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.05,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 69.99
+            },
+            "sale_end": 1738173600,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 10.49
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/1956d574c3571c25a294a78a123835f8ef3676af.jpg?auto=compress,format&fit=crop&h=206&w=360&s=fa1f3a40b90d6876306e6e763018128f",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "finalfantasyxvi_completeedition_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/1956d574c3571c25a294a78a123835f8ef3676af.jpg?auto=compress,format&fit=crop&h=84&w=135&s=5e229f5f6f32ab05edb4f1e8564a7cdd",
+            "content_types": [
+                "mobile",
+                "game"
+            ],
+            "human_url": "final-fantasy-xvi-complete-edition",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/1956d574c3571c25a294a78a123835f8ef3676af.jpg?auto=compress,format&fit=crop&h=154&w=270&s=6467b1b31249ed26628f2d11876aca51",
+            "large_capsule": "https://hb.imgix.net/1956d574c3571c25a294a78a123835f8ef3676af.jpg?auto=compress,format&fit=crop&h=353&w=616&s=48d9a71e0ef6af2a2ff1a48ae8c7e4ac",
+            "human_name": "FINAL FANTASY XVI COMPLETE EDITION",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/1956d574c3571c25a294a78a123835f8ef3676af.jpg?auto=compress,format&fit=crop&h=64&w=103&s=d5a93cd4c44341ce9178ba757791d634",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.05,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 69.99
+            },
+            "sale_end": 1738173600,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 52.49
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/4ab7b1947fa297980fab8a22e9abf42e01f6c252.jpg?auto=compress,format&fit=crop&h=206&w=360&s=eb7f80862ee215e81ad33ef53cb4d721",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "finalfantasyviirebirth_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/4ab7b1947fa297980fab8a22e9abf42e01f6c252.jpg?auto=compress,format&fit=crop&h=84&w=135&s=e6cf6ba1fd3a8ff48e613aa375fbcc77",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "final-fantasy-vii-rebirth",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/4ab7b1947fa297980fab8a22e9abf42e01f6c252.jpg?auto=compress,format&fit=crop&h=154&w=270&s=e4537bd415f3e678621d0bfa749eec16",
+            "large_capsule": "https://hb.imgix.net/4ab7b1947fa297980fab8a22e9abf42e01f6c252.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5af2b10a10b75857d4d3ed9627190fe7",
+            "human_name": "FINAL FANTASY VII REBIRTH",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/4ab7b1947fa297980fab8a22e9abf42e01f6c252.jpg?auto=compress,format&fit=crop&h=64&w=103&s=eae9c6458a627e37eebddd25e350ec0d",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.05,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 69.99
+            },
+            "sale_end": 1738778400,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 48.99
+            },
+            "cta_badge": "outnow",
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        },
+        {
+            "standard_carousel_image": "https://hb.imgix.net/cd133bba6597002f9465b842b2f9f4b4de567feb.jpg?auto=compress,format&fit=crop&h=206&w=360&s=1fe934f46d4e7345ba33a63443990a38",
+            "delivery_methods": [
+                "steam"
+            ],
+            "machine_name": "powerwashsimulator_storefront",
+            "xray_traits_thumbnail": "https://hb.imgix.net/cd133bba6597002f9465b842b2f9f4b4de567feb.jpg?auto=compress,format&fit=crop&h=84&w=135&s=ff78c3b7eb5038d50eb6fd2053204d7f",
+            "content_types": [
+                "game"
+            ],
+            "human_url": "powerwash-simulator",
+            "platforms": [
+                "windows"
+            ],
+            "icon_dict": {
+                "steam": {
+                    "available": [
+                        "windows"
+                    ],
+                    "unavailable": [
+                        "mac",
+                        "linux"
+                    ]
+                }
+            },
+            "featured_image_recommendation": "https://hb.imgix.net/cd133bba6597002f9465b842b2f9f4b4de567feb.jpg?auto=compress,format&fit=crop&h=154&w=270&s=a842b3655f4765b91519a5f8d709bb8d",
+            "large_capsule": "https://hb.imgix.net/cd133bba6597002f9465b842b2f9f4b4de567feb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=b1d10acd9d2f4c7de65a6d8c4dd1e3cd",
+            "human_name": "PowerWash Simulator",
+            "required_account_links": [
+                "steam"
+            ],
+            "type": "product",
+            "icon": "https://hb.imgix.net/cd133bba6597002f9465b842b2f9f4b4de567feb.jpg?auto=compress,format&fit=crop&h=64&w=103&s=065a9cc996014212fb0fff374dca6ac2",
+            "non_rewards_charity_split": 0,
+            "rewards_split": 0.05,
+            "empty_tpkds": {},
+            "full_price": {
+                "currency": "USD",
+                "amount": 24.99
+            },
+            "sale_end": 1738173600,
+            "nonrefundable": false,
+            "current_price": {
+                "currency": "USD",
+                "amount": 17.49
+            },
+            "cta_badge": null,
+            "rating_for_current_region": "esrb",
+            "sale_type": "normal"
+        }
+    ]
+}

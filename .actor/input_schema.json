@@ -3,22 +3,16 @@
     "type": "object",
     "schemaVersion": 1,
     "properties": {
-        "startUrls": {
-            "title": "Start URLs",
-            "type": "array",
-            "description": "URLs to start with.",
-            "editor": "requestListSources",
-            "prefill": [
-                {
-                    "url": "https://crawlee.dev"
-                }
-            ]
+        "searchPhrase": {
+            "title": "Search Phrase",
+            "type": "string",
+            "description": "The phrase to search for.",
+            "editor": "textfield"
         },
-        "maxRequestsPerCrawl": {
-            "title": "Max Requests per Crawl",
+        "maxResults": {
+            "title": "Maximum Results",
             "type": "integer",
-            "description": "Maximum number of requests that can be made by this crawler.",
-            "default": 100
+            "description": "Maximum number of results to collect."
         }
     }
 }
