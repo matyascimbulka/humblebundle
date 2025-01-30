@@ -9,10 +9,7 @@ export const handleSearch = async ({ log, request, json, crawler, pushData, addR
     const { searchPhrase } = request.userData;
     const state = await Actor.useState<State>(ACTOR_STATE);
 
-    const { num_pages: numPages, results } = json;
-
-    const searchParams = new URLSearchParams(request.url.split('?')[1]);
-    const currentPage = Number(searchParams.get('page') ?? '1');
+    const { page_index: pageIndex, num_pages: numPages, results } = json;
 
     const limit = state.maxResults ? state.maxResults - state.scrapedResults : undefined;
     const games = parseGameArray(results, limit);
@@ -21,17 +18,17 @@ export const handleSearch = async ({ log, request, json, crawler, pushData, addR
     await pushData(games);
 
     if (state.maxResults && state.scrapedResults >= state.maxResults) {
-        log.info(`Scraped ${games.length} games on page ${currentPage}; `
+        log.info(`Scraped ${games.length} games on page ${pageIndex + 1}; `
             + `total games scraped: ${state.scrapedResults}; `
             + `reached max results: ${state.maxResults}`, { url: request.url });
         await crawler.stop();
         return;
     }
 
-    if (currentPage < numPages) {
+    if (pageIndex + 1 < numPages) {
         const url = new URL(`${BASE_URL}/store/api/search`);
         url.searchParams.set('search', searchPhrase?.replace(' ', '+') ?? '');
-        url.searchParams.set('page', `${currentPage + 1}`);
+        url.searchParams.set('page', `${pageIndex + 1}`);
         url.searchParams.set('sort', 'bestselling');
         url.searchParams.set('filter', 'all');
         url.searchParams.set('request', '1');
@@ -44,11 +41,11 @@ export const handleSearch = async ({ log, request, json, crawler, pushData, addR
             label: LABELS.SEARCH,
         }]);
 
-        log.info(`Scraped ${games.length} games on page ${currentPage}; `
+        log.info(`Scraped ${games.length} games on page ${pageIndex + 1}; `
             + `total games scraped: ${state.scrapedResults}; `
-            + `enqueued page ${currentPage + 1}`, { url: request.url });
+            + `enqueued page ${pageIndex + 2}`, { url: request.url });
     } else {
-        log.info(`Scraped ${games.length} games on page ${currentPage}; `
+        log.info(`Scraped ${games.length} games on page ${pageIndex + 1}; `
             + `total games scraped: ${state.scrapedResults}; `
             + `no more pages to scrape`, { url: request.url });
     }
