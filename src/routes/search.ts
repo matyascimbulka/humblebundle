@@ -1,4 +1,5 @@
 import { Actor } from 'apify';
+import { ApifyApiError } from 'apify-client';
 import { HttpCrawlingContext } from 'crawlee';
 
 import { ACTOR_STATE, BASE_URL, LABELS } from '../const.js';
@@ -15,7 +16,18 @@ export const handleSearch = async ({ log, request, json, crawler, pushData, addR
     const games = parseGameArray(results, limit);
 
     state.scrapedResults += games.length;
-    await pushData(games);
+    try {
+        await pushData(games);
+    } catch (error) {
+        if (error instanceof ApifyApiError) {
+            if (!error.data?.invalidItems) throw error;
+            (error.data.invalidItems as Array<any>).forEach((item) => {
+                log.error('Validation failed', item.validationErrors);
+            });
+        }
+
+        log.error('Failed to push data', { error });
+    }
 
     if (state.maxResults && state.scrapedResults >= state.maxResults) {
         log.info(`Scraped ${games.length} games on page ${pageIndex + 1}; `
